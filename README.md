@@ -1,2 +1,2 @@
-# portfolio  <ref>hennieye.com</ref>
+# hennieye.com 
 my personal website of portfolio
